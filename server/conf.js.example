@@ -1,0 +1,4 @@
+exports.MYSQL_HOST        = '';
+exports.MYSQL_USERNAME    = '';
+exports.MYSQL_PASSWORD    = '';
+exports.MYSQL_DB          = '';
